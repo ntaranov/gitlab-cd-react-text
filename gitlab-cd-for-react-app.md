@@ -166,7 +166,7 @@ Subsequently, the issue is pulled into **QA** stage where quality assurance and 
 
 GitLab uses **labels** to organize issues. Labels are like tags and let you search, filter, and display issues in different places based on the existence of one or another label.
 
-🛠️ Open the issue `Create labels` and assign it to yourself. Select **Issues** -> **Labels** in the left menu, then click **New label** in the right part of the main area. Create so the following 3 labels picking colors you prefer.
+🛠️ Open the issue `Create labels` and assign it to yourself. Select **Project information** -> **Labels** in the left menu, then click **New label** in the right part of the main area. Create so the following 3 labels picking colors you prefer.
 - Dev
 - Dev: done
 - QA
