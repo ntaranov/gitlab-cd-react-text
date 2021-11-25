@@ -378,6 +378,8 @@ Let's complete the work on our pipeline.
 
 🛠️ Commit the edited file `.gitlab-ci.yml`, specify "Add CI/CD pipeline" as **Commit message**, and leave `master` as the branch.
 
+🛠️ Click **CI/CD** in the left menu to observe our pipeline execution. You can see the run details and logs.
+
 🛠️ Move the `Create continuous delivery pipeline` issue to the **Dev: done** stage.
 
 ## 🎠 A few rounds of work with GitLab Flow
